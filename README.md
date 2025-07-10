@@ -47,3 +47,6 @@ Invest in support quality training and faster resolution workflows.
 5. Focus improvements in San Antonio, which show least average satisfaction scores and least number of customers.
 Use local campaigns, feedback collection, or manager performance checks.
 6. Be consistent on Product Quality-It is consistently the top-rated satisfaction factor, so make it a central part of your brand promise and marketing.
+
+   Here is the link to the dashboard- https://app.powerbi.com/groups/me/dashboards/05bc96fc-f475-42c8-814e-b2ee02111aef?ctid=fa6944af-cc7c-4cd8-9154-c01132798910&pbi_source=linkShare
+   

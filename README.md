@@ -36,7 +36,9 @@
 -Customers who contacted support are mostly in the Low or Medium satisfaction categories, confirming that support interactions may negatively affect satisfaction.
 
 -Ease to use(not user friendly) and Product Features are major drivers of low satisfaction, whereas Product Quality and Packaging are drivers of high satisfaction.
+
 🚀 Recommendations
+
 1. Improve Product Interface to be user friendly- Most customers were not satisfies with the product features hence the lower rate in ease to use and feature satisfaction factors. Also it increased the churn rate of customers from 44 years above.
 2. Consider products for Younger customers(25-34)-Variety for Younger Age customers (25–34) show lowest customer churn rate and more of medium loyalty level
 3. Optimize Customer Support-High support contact is strongly associated with low satisfaction.
